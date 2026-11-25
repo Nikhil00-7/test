@@ -1,1 +1,1 @@
-print('black')
+print("yo yo")
